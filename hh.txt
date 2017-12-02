@@ -1,0 +1,4 @@
+out/production/TpSoap/com/hello
+.idea
+.DS_Store
+*.iml
