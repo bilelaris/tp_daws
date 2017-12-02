@@ -1,5 +1,0 @@
-*.iml
-.DS_Store
-.out/production/TpSoap/com/hello
-.idea
-/**/*.class
